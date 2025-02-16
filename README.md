@@ -1,5 +1,7 @@
 # ap（auto proxy）
 
+软件下载链接：https://github.com/ys928/ap/releases，或直接点击：[release](https://github.com/ys928/ap/releases)
+
 这是一个自动帮助git更新系统代理的工具，其目的是解决使用clash、hiddify之类的系统代理工具时遇到的以下问题：
 
 - 使用代理软件启动了系统代理，但git没有启用，导致拉取不了github仓库，需要手动执行命令启动git使用系统代理
